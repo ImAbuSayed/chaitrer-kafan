@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chaitrer-kafan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Chaitrer Kafan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chaitrer-kafan/) |
+| **Get License** | [Request Licensing for Chaitrer Kafan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chaitrer-kafan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1e7cf722fc66b0a1c9742d255890a43f9ee588dc43c03c85b9e28eedfb3ac8fa` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

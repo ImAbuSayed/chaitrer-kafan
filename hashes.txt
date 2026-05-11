@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chaitrer Kafan
+
+This log tracks the cryptographic history and versioning for the song **Chaitrer Kafan** (chaitrer-kafan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T10:37:00.632194 | `v1` | `1e7cf722fc66b0a1c9742d255890a43f9ee588dc43c03c85b9e28eedfb3ac8fa` | `6236d22a2b5a3199c5b8edf85366ad20a9a3dcec5cbc462f970b1b744b0e2607` | `2026-05-11_chaitrer-kafan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
